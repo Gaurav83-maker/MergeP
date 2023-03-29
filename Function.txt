@@ -1,1 +1,2 @@
 added function A
+added function B
