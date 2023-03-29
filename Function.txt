@@ -1,3 +1,4 @@
 added function A
 added function B
 added function C
+added function D
