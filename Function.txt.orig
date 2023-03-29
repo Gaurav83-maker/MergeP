@@ -1,6 +1,8 @@
 added function A
 added function B
 added function C
+<<<<<<< HEAD
 added function D
+=======
 added fucntion E
-
+>>>>>>> master
